@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-WWelcome! I’m Aidana, a final year PhD Candidate in Computer Science specializing in the fascinating field of Robotic Surgery. Hailing from the picturesque landscapes of Kazakhstan, I’m deeply committed to leveraging innovation to revolutionize healthcare and beyond, with a research focus on robotics, computer vision, and multi-modal navigation.
+Welcome! I’m Aidana, a final year PhD Candidate in Computer Science specializing in the fascinating field of Robotic Surgery. Hailing from the picturesque landscapes of Kazakhstan, I’m deeply committed to leveraging innovation to revolutionize healthcare and beyond, with a research focus on robotics, computer vision, and multi-modal navigation.
 
 Away from the laboratory, I’m an avid sports enthusiast, finding immense joy in activities such as CrossFit, hiking, and skiing. When I’m not engrossed in research, you’ll often find me immersed in a good book or exploring captivating destinations around the world.
 
